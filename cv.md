@@ -5,6 +5,7 @@
 ###Contacts:
 
 * **Discord:** EHG#4728
+* **GitHub:** @kostili-tec
 * **Email:** weh4teyou@gmail.com
 * **Telegram:** @nebuchadnezzars_dream
 
@@ -38,4 +39,8 @@ __Mexican wave from codewars:__  _In this simple Kata your task is to create a f
 
 ###Education
 
-*Higher education
+* **Higher education**
+
+###Languages
+* **Russian** - native speaker
+* **English** - A2  
