@@ -1,8 +1,8 @@
-#Danil Podgorniy
+# Danil Podgorniy
 
-##Student of RS-School
+## Student of RS-School
 
-###Contacts:
+### Contacts:
 
 * **Discord:** EHG#4728
 * **GitHub:** @kostili-tec
@@ -10,11 +10,11 @@
 * **Telegram:** @nebuchadnezzars_dream
 
 
-###About myself:
+### About myself:
 
 I want to learn Front-End Development in RSSchool!
 
-###Skills
+### Skills
 
 * HTML/CSS
 * JavaScript
@@ -22,7 +22,7 @@ I want to learn Front-End Development in RSSchool!
 * Arduino
 * Photoshop
 
-###Code example:
+### Code example:
 
 __Mexican wave from codewars:__  _In this simple Kata your task is to create a function that turns a string into a Mexican Wave. You will be passed a string and you must return that string in an array where an uppercase letter is a person standing up._ 
 
@@ -37,10 +37,10 @@ __Mexican wave from codewars:__  _In this simple Kata your task is to create a f
    }
 ```
 
-###Education
+### Education
 
 * **Higher education**
 
-###Languages
+### Languages
 * **Russian** - native speaker
 * **English** - A2  
