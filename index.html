@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
     <title>CV</title>
 </head>
 <body>
@@ -14,7 +17,29 @@
 
     <main class="main main-container">
         <section id="left-side">
-            <section class="section" id="square"></section>
+            <section class="section" id="rectangle"></section>
+            <figure class="figure">
+                <img src="" alt="here wiil be avatar">
+            </figure>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul>
+                    <li>Discord: EHG#4728</li>
+                    <li>GitHub: @kostili-tec</li>
+                    <li>Email: weh4teyou@gmail.com</li>
+                    <li>Telegram: @nebuchadnezzars_dream</li>
+                </ul>
+            </section>
+            <section class="section" id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML/CSS</li>
+                    <li>JavaScript</li>
+                    <li>Git</li>
+                    <li>Arduino</li>
+                    <li>Photoshop</li>
+                </ul>
+            </section>
 
         </section>
 
@@ -22,6 +47,36 @@
             <section class="section" id="profile">
                 <h1>Danil Podgorniy</h1>
                 <h2>Front-End Developer</h2>
+            </section>
+            <section class="section" id="profile">
+                <h2>About myself</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis quos quod suscipit recusandae, illo accusamus, 
+                    blanditiis consequuntur nostrum eum veritatis commodi perspiciatis vel tempore velit sapiente. Laudantium itaque vero facilis.</p>
+            </section>
+            <section class="section" id="code__example">
+                <h2>Code example:</h2>
+                <pre>                    
+                    <code>
+function wave(str){
+    let arr = str.split('');
+    let arrWave = [];
+        for (let i = 0; i < str.length; i++) {
+            arrWave[i] = arr.map((item, index) => index == i  ? item.toUpperCase() : item).join('');     
+        }       
+        const result = arrWave.filter(word => word != arr.join(''));
+    return result; 
+        }
+                        </code>                    
+                </pre>
+            </section>
+            <section class="section" id="projects">
+                <h2>Projects</h2>
+                <p><b>RSSchool CV</b></p>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <p><b>Kabardino-Balkar State University named after H.M. Berbekov</b></p>
+                <p>Informatics and Computer Engineering</p>
             </section>
 
         </section>
