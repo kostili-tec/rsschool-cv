@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
     <title>CV</title>
 </head>
 <body>
@@ -23,6 +23,7 @@
             </figure>
             <section class="section" id="contacts">
                 <h2>Contacts</h2>
+                <div class=""></div>
                 <ul>
                     <li>Discord: EHG#4728</li>
                     <li>GitHub: @kostili-tec</li>
@@ -30,6 +31,7 @@
                     <li>Telegram: @nebuchadnezzars_dream</li>
                 </ul>
             </section>
+            <br>
             <section class="section" id="skills">
                 <h2>Skills</h2>
                 <ul>
@@ -45,10 +47,13 @@
 
         <section id="right-side">
             <section class="section" id="profile">
-                <h1>Danil Podgorniy</h1>
-                <h2>Front-End Developer</h2>
+                <div id="profile__block">
+                    <h1>Danil <br>Podgorniy</h1>
+                    <h3>Front-End Developer</h3>
+                </div>
+                
             </section>
-            <section class="section" id="profile">
+            <section class="section" id="about">
                 <h2>About myself</h2>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis quos quod suscipit recusandae, illo accusamus, 
                     blanditiis consequuntur nostrum eum veritatis commodi perspiciatis vel tempore velit sapiente. Laudantium itaque vero facilis.</p>
@@ -85,6 +90,15 @@ function wave(str){
         
     </main>
 
-    <footer class="footer"></footer>    
+    <footer class="footer">
+        <section class="section" id="footer__section">
+            @2022
+            <a class="github nav-link" href="https://github.com/kostili-tec/">kostili-tec</a>
+            <a class="rss" href="https://rs.school/js/"></a>
+        </section>        
+
+        <!-- <section class="section" id="github"></section>
+        <section class="section" id="logo"></section> -->
+    </footer>    
 </body>
 </html>
