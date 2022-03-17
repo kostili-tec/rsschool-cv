@@ -37,6 +37,13 @@ __Mexican wave from codewars:__  _In this simple Kata your task is to create a f
    }
 ```
 
+### Projects 
+
+[Portfolio](https://rolling-scopes-school.github.io/kostili-tec-JSFEPRESCHOOL/portfolio/)
+[Synth Player](https://rolling-scopes-school.github.io/kostili-tec-JSFEPRESCHOOL/audio-player/)
+[Image Garden](https://rolling-scopes-school.github.io/kostili-tec-JSFEPRESCHOOL/image-galery/)
+[Memory Game](https://rolling-scopes-school.github.io/kostili-tec-JSFEPRESCHOOL/memory-game/)
+
 ### Education
 
 * **Higher education**
